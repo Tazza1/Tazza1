@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Tazza1
-- 👀 I’m interested in learning code "Python", "JavaScript"
-- 🌱 I’m currently learning Python and JavaScript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me email: touzriamhed345@gmail.com
+# Salut, moi c’est Tazza1 👋
 
-<!---
-Tazza1/Tazza1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Étudiant, j’apprends la programmation avec Python et JavaScript. Je découvre aussi la conception logicielle et UML pour mieux comprendre comment structurer un logiciel.
+
+J’utilise GitHub pour partager mes exercices et progresser au fil de mon apprentissage.
+
+📫 Contact : [touzriahmed345@gmail.com](mailto:touzriahmed345@gmail.com)
